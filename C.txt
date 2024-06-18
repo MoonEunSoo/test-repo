@@ -1,6 +1,4 @@
 A
-<<<<<<< HEAD
 B
 C
-=======
->>>>>>> parent of 5474abf (C second cimmit)
+D
